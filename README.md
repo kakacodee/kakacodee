@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on good projects and help startups
 - 📫 How to reach me: kakas13.souza@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I love to play basketball
+- ⚡ Fun fact: I'm developing a game called pyRPG!!
+<a href="https://github.com/kakacodee/Jogo.git">pyRPG</a>
 
 <!---
 kakacodee/kakacodee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
