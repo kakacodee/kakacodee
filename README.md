@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on good projects and help startups
 - 📫 How to reach me: kakas13.souza@gmail.com
-- ⚡ Fun fact: I'm developing a game called<a href="https://github.com/kakacodee/Jogo.git">pyRPG</a>!!
+- ⚡ Fun fact: I'm developing a game called<a href="https://github.com/kakacodee/Jogo.git"> pyRPG</a>!!
 
 
 <!---
