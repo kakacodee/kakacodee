@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @kakacodee
+<h1>👋 Hi, I’m Kauã Santos </h1>
+<h3>About me:</h3>
 - 👀 I’m interested in developing and creating systems
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning <em>Java</em>
 - 💞️ I’m looking to collaborate on good projects and help startups
-- 📫 How to reach me: kakas13.souza@gmail.com
-- ⚡ Fun fact: I'm developing a game called<a href="https://github.com/kakacodee/Jogo.git"> pyRPG</a>!!
+- 📫 How to reach me: kauasouza.santos04@gmail.com
+
 
 
 <!---
