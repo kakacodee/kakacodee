@@ -1,13 +1,9 @@
 <h1>👋 Hi, I’m Kauã Santos </h1>
 
 <h2>About me:</h2>
-
-<ul>
 <li> <h3>👀 I’m interested in developing and creating systems</h3></li>
 <li> <h3>🌱 I’m currently learning <em>Java</em></h3></li>
 <li> <h3>💞️ I’m looking to collaborate on good projects and help startups </h3></li>
-
-</ul>
 
 <h2>🛠 Tech Stack:</h2>
 <li><h3>Frontend: HTML, CSS, JavaScript</h3></li>
