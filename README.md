@@ -13,7 +13,7 @@
 
 <h2>📫 Contact: </h2>
 <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=kauasouza.santos04@gmail.com">📧 Email: kauasouza.santos04@gmail.com</a></li>
-<li><a href="https://www.linkedin.com/in/kau%C3%A3-santos-173a27285/">💼 LinkedIn: Kauã Santos</a></li>
+<li><a href="www.linkedin.com/in/kauãs/">💼 LinkedIn: Kauã Santos</a></li>
 <li><a href="https://kakacodee.github.io/portfolioProfissional/">🌐 Portfolio</a></li>
 </ul>
 <!---
